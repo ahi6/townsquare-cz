@@ -56,7 +56,7 @@
   },
   {
     "id": "empath",
-    "name": "Procitlý",
+    "name": "Empat",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 39,
@@ -134,7 +134,7 @@
   },
   {
     "id": "slayer",
-    "name": "Ozbrojenec",
+    "name": "Střelec",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -173,7 +173,7 @@
   },
   {
     "id": "butler",
-    "name": "Číšník",
+    "name": "Sluha",
     "edition": "tb",
     "team": "outsider",
     "firstNight": 41,
@@ -278,7 +278,7 @@
   },
   {
     "id": "imp",
-    "name": "Rarach",
+    "name": "Ďábel",
     "edition": "tb",
     "team": "demon",
     "firstNight": 0,
@@ -291,7 +291,7 @@
   },
   {
     "id": "bureaucrat",
-    "name": "Bureaucrat",
+    "name": "Byrokrat",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 1,
