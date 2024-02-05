@@ -1,5 +1,5 @@
-const supportedLanguages = ["en", "fr", "cs"];
-const MASTER_LANGUAGE = "en";
+const supportedLanguages = [/*"en",*/ "fr", "cs"];
+const MASTER_LANGUAGE = "cs";
 const userLanguages = window.navigator.languages;
 let usedLanguage = null;
 
