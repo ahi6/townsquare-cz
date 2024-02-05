@@ -2,104 +2,104 @@
   "menu":{
     "grimoire":{
       "title": "Grimoire",
-      "hide": "Hide",
-      "show": "Show",
-      "nightSwitch": "Switch to Night",
-      "daySwitch": "Switch to Day",
-      "order": "Night order",
-      "zoom": "Zoom",
-      "background": "Background image",
-      "customImages": "Show Custom Images",
-      "streamerMode": "Streamer Mode",
-      "animations": "Disable Animations",
-      "mute": "Mute Sounds",
-      "ringBell": "Ring Bell",
+      "hide": "Schovat",
+      "show": "Ukázat",
+      "nightSwitch": "Přepnout na Noc",
+      "daySwitch": "Přepnout na Den",
+      "order": "Noční pořadí",
+      "zoom": "Zvětšení",
+      "background": "Obrázek na pozadí",
+      "customImages": "Použít vlastní obrázky",
+      "streamerMode": "Režim pro streamery",
+      "animations": "Vypnout animace",
+      "mute": "Ztlumit zvuky",
+      "ringBell": "Zazvonit",
       "organGrinder ": "Organ Grinder Vote"
     },
     "session":{
       "title":{
-        "player": "Playing",
-        "host": "Hosting",
-        "create": "Live Session"
+        "player": "Hráč",
+        "host": "Vypravěč",
+        "create": "Živá relace"
       },
-      "player": "Join (Player)",
-      "players": "players",
-      "host": "host",
-      "storyteller": "Host (Storyteller)",
-      "delay": "Delay",
-      "link": "Copy player link",
-      "sendRoles": "Send Characters",
-      "voteHistory": "Vote history",
-      "leave": "Leave Session"
+      "player": "Připojit (Hráč)",
+      "players": "hráči",
+      "host": "vypravěč",
+      "storyteller": "Vypravěč",
+      "delay": "Prodlení",
+      "link": "Zkopírovat hráčský odkaz",
+      "sendRoles": "Poslat charaktery",
+      "voteHistory": "Historie hlasování",
+      "leave": "Opustit relaci"
     },
     "players":{
-      "title": "Players",
-      "add": "Add",
-      "randomize": "Randomize",
-      "removeAll": "Remove all"
+      "title": "Hráči",
+      "add": "Přidat",
+      "randomize": "Vybrat náhodně",
+      "removeAll": "Odstranit všechny"
     },
     "characters":{
-      "title": "Characters",
-      "selectEdition": "Select Edition",
-      "assign": "Choose & Assign",
-      "addFabled": "Add Fabled",
-      "removeAll": "Remove all"
+      "title": "Postavy",
+      "selectEdition": "Vybrat edici",
+      "assign": "Vybrat a přiřadit",
+      "addFabled": "Přidat Fabled",
+      "removeAll": "Odstranit všechny"
     },
     "help":{
-      "title": "Help",
-      "reference": "Reference Sheet",
-      "nightOrder": "Night Order Sheet",
-      "gameState": "Game State JSON",
-      "discord": "Join Discord",
-      "source": "Source code"
+      "title": "Nápověda",
+      "reference": "Přehled postav",
+      "nightOrder": "Přehled pořadí v noci",
+      "gameState": "JSON stav hry",
+      "discord": "Připojit se na Discord",
+      "source": "Zdrojový kód"
     }
   },
   "prompt":{
-    "background": "Enter custom background URL",
-    "createSession": "Enter a channel number / name for your session",
-    "sendRoles": "Do you want to distribute assigned characters to all SEATED players?",
-    "imageOptIn": "Are you sure you want to allow custom images? A malicious script file author might track your IP address this way.",
-    "joinSession": "Enter the channel number / name of the session you want to join",
-    "leaveSession": "Are you sure you want to leave the active live game?",
-    "addPlayer": "Player name",
-    "randomizeSeatings": "Are you sure you want to randomize seatings?",
-    "clearPlayers": "Are you sure you want to remove all players?",
-    "clearRoles": "Are you sure you want to remove all player roles?",
-    "customUrl": "Enter URL to a custom-script?json file",
-    "customError": "Error loading custom script",
-    "customNote": "Add a custom reminder node"
+    "background": "Zadejte vlastní adresu URL na pozadí",
+    "createSession": "Zadejte název kanálu pro vaši relaci",
+    "sendRoles": "Chcete přidělené postavy distribuovat všem POSAZENÝM hráčům?",
+    "imageOptIn": "Opravdu chcete povolit vlastní obrázky? Autor škodlivého souboru může tímto způsobem získat vaši IP adresu.",
+    "joinSession": "Zadejte název relace, ke které se chcete připojit.",
+    "leaveSession": "Opravdu chcete opustit aktivní hru?",
+    "addPlayer": "Jméno hráče",
+    "randomizeSeatings": "Opravdu chcete náhodně promíchat posazené hráče?",
+    "clearPlayers": "Opravdu chcete odebrat všechny hráče?",
+    "clearRoles": "Opravdu chcete odebrat role všech hráčů?",
+    "customUrl": "Zadejte adresu URL souboru vlastni-script.json",
+    "customError": "Chyba při načítání vlastního scriptu",
+    "customNote": "Přidat vlastní poznámku"
   },
   "vote":{
-    "nominates": "nominates",
+    "nominates": "nominuje",
     "callexile": "calls for the exile of",
     "exclam": "!",
-    "votes": "votes",
-    "inFavor": "in favor",
-    "majorityIs": "majority is",
-    "timePerPlayer": "Time per player:",
-    "countdown": "Countdown",
-    "restart": "Restart",
-    "start": "Start",
-    "pause": "Pause",
-    "resume": "Resume",
-    "reset": "Reset",
-    "close": "Close",
+    "votes": "hlasů",
+    "inFavor": "ve prospěch",
+    "majorityIs": "většina je",
+    "timePerPlayer": "Čas na hráče:",
+    "countdown": "Odpočet",
+    "restart": "Restartovat",
+    "start": "Začít",
+    "pause": "Pozastavit",
+    "resume": "Pokračovat",
+    "reset": "Resetovat",
+    "close": "Zavřit",
     "setMarked": "Mark for execution",
     "removeMarked": "Clear mark",
-    "secondsBetweenVotes": "seconds between votes",
-    "handDown": "Hand DOWN",
-    "handUp": "Hand UP",
-    "seatToVote": "Pleas claim a seat to vote",
+    "secondsBetweenVotes": "sekund mezi hlasy",
+    "handDown": "Ruka DOLE",
+    "handUp": "Ruka NAHOŘE",
+    "seatToVote": "Nejprve se usaď, než můžeš začít hlasovat",
     "doVote": "Go"
   },
   "townsquare":{
-    "others": "Other characters",
+    "others": "Ostatní postavy",
     "bluffs": "Demon bluffs",
     "fabled": "Fabled",
     "storytellerTools": "Storytelling",
     "timer": {
       "default": {
-        "text": "Timer"
+        "text": "Časovač"
       },
       "prompt": {
         "name": "Timer name",
@@ -137,8 +137,8 @@
     "nightPhase":"Night Phase"
   },
   "player":{
-    "handUp": "Hand UP",
-    "handDown": "Hand DOWN",
+    "handUp": "Ruka NAHOŘE",
+    "handDown": "Ruka DOLE",
     "cancel": "Cancel",
     "swap": "Swap seats with this player",
     "move": "Move player to this seat",
@@ -156,20 +156,20 @@
     "occupiedSeat": "Seat occupied"
   },
   "intro":{
-    "header": "Welcome to the (unofficial) Virtual Town Square and Grimoire for Blood on the Clocktower! Please add more players through the",
+    "header": "Vítej na NEOFICIÁLNÍM digitálním náměstí pro hru BOTC! Přidej hráče pomocí",
     "menu": "Menu",
-    "body": "on the top right or by pressing [A]. You can also join a game session by pressing [J]. ČESKÁ EDICE BABYYY",
-    "footerStart": "This project is free and open source and can be found on",
+    "body": "vpravo nahoře nebo stisknutím [A]. Můžeš se připojit na herní relaci stisknutím tlačítka [J].",
+    "footerStart": "Tento překlad byl vytvořen na základě FOSS projektu, který lze najít na stránce",
     "footerEnd": ". It is not affiliated with The Pandemonium Institute. \"Blood on the Clocktower\" is a trademark of Steven Medway and The Pandemonium Institute."
   },
   "modal":{
     "edition":{
-      "title": "Select an edition:",
+      "title": "Vybrat edici:",
       "tab": {
-        "official": "Official scripts",
-        "popular": "Popular scripts",
+        "official": "Oficiální scénáře",
+        "popular": "Populární scénáře",
         "teensyville": "Teensyville",
-        "custom": "Load custom"
+        "custom": "Načíst vlastní"
       },
       "custom": {
         "introStart": "To play with a custom script, you need to select the characters you want to play with in the official",
@@ -210,7 +210,7 @@
       "duskDescription": "End the day, and put all players to sleep."
     },
     "reference": {
-        "title": "Character Reference",
+        "title": "Přehled postav",
         "jinxed": "Jinxed",
         "notfirstnight": "*Not the first night",
         "teamNames": {
@@ -221,10 +221,10 @@
         }
     },
     "reminder": {
-      "title": "Choose a reminder token:",
-      "good": "Good",
-      "evil": "Evil",
-      "custom": "Custom Note"
+      "title": "Vyber poznámku:",
+      "good": "Dobrý",
+      "evil": "Zlý",
+      "custom": "Vlastní poznámka"
     },
     "role": {
       "title": "Choose a new character for",
@@ -242,19 +242,19 @@
       "shuffle": "Shuffle characters"
     },
     "voteHistory":{
-      "title": "Vote history",
-      "accessibility": "Accessible to players",
-      "clear": "Clear for everyone",
-      "time": "Time",
-      "nominator": "Nominator",
-      "nominee": "Nominee",
-      "type": "Type",
-      "votes": "Votes",
-      "majority": "Majority",
-      "voters": "Voters",
-      "execution": "Execution",
-      "exile": "Exile",
-      "hiddenVote": "The result is hidden because of the Organ Grinder"
+      "title": "Historie hlasování",
+      "accessibility": "Přístup hráčům",
+      "clear": "Vymazat všem",
+      "time": "Čas",
+      "nominator": "Nominující",
+      "nominee": "Nominovaný",
+      "type": "Typ",
+      "votes": "Hlasů",
+      "majority": "Většina",
+      "voters": "Voliči",
+      "execution": "Poprava",
+      "exile": "Exil",
+      "hiddenVote": "Výsledek byl skryt kvůli Organ Grinderu"
     }
   }
 }
