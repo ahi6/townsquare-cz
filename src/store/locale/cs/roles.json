@@ -304,7 +304,7 @@
   },
   {
     "id": "thief",
-    "name": "Thief",
+    "name": "Zloděj",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 1,
@@ -317,7 +317,7 @@
   },
   {
     "id": "gunslinger",
-    "name": "Gunslinger",
+    "name": "Střelec",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 0,
@@ -343,7 +343,7 @@
   },
   {
     "id": "beggar",
-    "name": "Beggar",
+    "name": "",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 0,
@@ -356,7 +356,7 @@
   },
   {
     "id": "grandmother",
-    "name": "Grandmother",
+    "name": "Babička",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 42,
@@ -369,7 +369,7 @@
   },
   {
     "id": "sailor",
-    "name": "Sailor",
+    "name": "Námořník",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 12,
@@ -382,7 +382,7 @@
   },
   {
     "id": "chambermaid",
-    "name": "Chambermaid",
+    "name": "Služka",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 58,
@@ -395,7 +395,7 @@
   },
   {
     "id": "exorcist",
-    "name": "Exorcist",
+    "name": "Vymýtač",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -408,7 +408,7 @@
   },
   {
     "id": "innkeeper",
-    "name": "Innkeeper",
+    "name": "Hostinský",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -422,7 +422,7 @@
   },
   {
     "id": "gambler",
-    "name": "Gambler",
+    "name": "Karbaník",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -435,7 +435,7 @@
   },
   {
     "id": "gossip",
-    "name": "Gossip",
+    "name": "Drbna",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -448,7 +448,7 @@
   },
   {
     "id": "courtier",
-    "name": "Courtier",
+    "name": "Dvořan",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 20,
@@ -464,7 +464,7 @@
   },
   {
     "id": "professor",
-    "name": "Professor",
+    "name": "Profesor",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -478,7 +478,7 @@
   },
   {
     "id": "minstrel",
-    "name": "Minstrel",
+    "name": "Potulný zpěvák",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -491,7 +491,7 @@
   },
   {
     "id": "tealady",
-    "name": "Tea Lady",
+    "name": "Čajová dáma",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -504,7 +504,7 @@
   },
   {
     "id": "pacifist",
-    "name": "Pacifist",
+    "name": "Pacifista",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -517,7 +517,7 @@
   },
   {
     "id": "fool",
-    "name": "Fool",
+    "name": "Šašek",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -530,7 +530,7 @@
   },
   {
     "id": "tinker",
-    "name": "Tinker",
+    "name": "Mechanik",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 0,
@@ -543,7 +543,7 @@
   },
   {
     "id": "moonchild",
-    "name": "Moonchild",
+    "name": "Měsíční dítě",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 0,
@@ -556,7 +556,7 @@
   },
   {
     "id": "goon",
-    "name": "Goon",
+    "name": "Moula",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 0,
@@ -569,7 +569,7 @@
   },
   {
     "id": "lunatic",
-    "name": "Lunatic",
+    "name": "Šílenec",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 9,
@@ -583,7 +583,7 @@
   },
   {
     "id": "godfather",
-    "name": "Godfather",
+    "name": "Kmotr",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 22,
@@ -597,7 +597,7 @@
   },
   {
     "id": "devilsadvocate",
-    "name": "Devil's Advocate",
+    "name": "Ďáblův advokát",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 23,
@@ -610,7 +610,7 @@
   },
   {
     "id": "assassin",
-    "name": "Assassin",
+    "name": "Vrah",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 0,
@@ -624,7 +624,7 @@
   },
   {
     "id": "mastermind",
-    "name": "Mastermind",
+    "name": "Megamysl",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 0,
