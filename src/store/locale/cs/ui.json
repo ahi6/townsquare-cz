@@ -25,10 +25,10 @@
       "player": "Připojit (Hráč)",
       "players": "hráči",
       "host": "vypravěč",
-      "storyteller": "Vypravěč",
+      "storyteller": "Zahájit (Vypravěč)",
       "delay": "Prodlení",
       "link": "Zkopírovat hráčský odkaz",
-      "sendRoles": "Poslat charaktery",
+      "sendRoles": "Poslat postavy",
       "voteHistory": "Historie hlasování",
       "leave": "Opustit relaci"
     },
@@ -71,7 +71,7 @@
   },
   "vote":{
     "nominates": "nominuje",
-    "callexile": "calls for the exile of",
+    "callexile": "chce do exilu vyhnat",
     "exclam": "!",
     "votes": "hlasů",
     "inFavor": "ve prospěch",
@@ -84,13 +84,13 @@
     "resume": "Pokračovat",
     "reset": "Resetovat",
     "close": "Zavřit",
-    "setMarked": "Mark for execution",
-    "removeMarked": "Clear mark",
+    "setMarked": "Označit na popravu",
+    "removeMarked": "Smazat označení",
     "secondsBetweenVotes": "sekund mezi hlasy",
     "handDown": "Ruka DOLE",
     "handUp": "Ruka NAHOŘE",
     "seatToVote": "Nejprve se usaď, než můžeš začít hlasovat",
-    "doVote": "Go"
+    "doVote": "Budiž"
   },
   "townsquare":{
     "others": "Ostatní postavy",
@@ -102,58 +102,58 @@
         "text": "Časovač"
       },
       "prompt": {
-        "name": "Timer name",
-        "duration": "Timer duration in minutes",
-        "durationError": "Timer duration must be a number"
+        "name": "Název časovače",
+        "duration": "Délka časovače v minutách",
+        "durationError": "Délka časovače musí být číslem"
       },
       "daytime": {
-        "button": "Daytime",
-        "text": "Daytime"
+        "button": "Den",
+        "text": "Den"
       },
       "nominations": {
-        "button": "Nominations",
-        "text": "Nominations open"
+        "button": "Nominace",
+        "text": "Nominace otevřeny"
       },
       "dusk": {
-        "button": "Dusk",
-        "text": "End of day"
+        "button": "Večer",
+        "text": "Konec dne"
       },
       "accusation": {
-        "button": "Accusation",
-        "text": "$accusator accuses $accusee"
+        "button": "Obvinění",
+        "text": "$accusator obviňuje $accusee"
       },
       "defense": {
-        "button": "Defense",
-        "text": "$accusee defends against $accusator"
+        "button": "Obrana",
+        "text": "$accusee se brání proti $accusator"
       },
       "debate": {
-        "button": "Debate",
-        "text": "Should we kill $accusee ?"
+        "button": "Debata",
+        "text": "Chceme zabít $accusee ?"
       }
     }
   },
   "towninfo":{
-    "addPlayers":"Please add more players!",
-    "nightPhase":"Night Phase"
+    "addPlayers":"Prosím přidej víc hráčů!",
+    "nightPhase":"Noční fáze"
   },
   "player":{
     "handUp": "Ruka NAHOŘE",
     "handDown": "Ruka DOLE",
-    "cancel": "Cancel",
-    "swap": "Swap seats with this player",
-    "move": "Move player to this seat",
-    "nominate": "Nominate this player",
-    "ghostVote": "Ghost vote",
-    "changePronouns": "Change Pronouns",
-    "changeName": "Rename",
-    "movePlayer": "Move player",
-    "swapPlayers": "Swap seats",
-    "removePlayer": "Remove",
-    "emptySeat": "Empty seat",
-    "nomination": "Nomination",
-    "claimSeat": "Claim seat",
-    "vacateSeat": "Vacate seat",
-    "occupiedSeat": "Seat occupied"
+    "cancel": "Zrušit",
+    "swap": "Vyměnit židli s tímto hráčem",
+    "move": "Přesunout hráče na tuto židli",
+    "nominate": "Nominovat tohoto hráče",
+    "ghostVote": "Hlas duchů",
+    "changePronouns": "Změnit zájmena",
+    "changeName": "Zmenit jméno",
+    "movePlayer": "Přesunout hráče",
+    "swapPlayers": "Přesunout židle",
+    "removePlayer": "Odstranit",
+    "emptySeat": "Prázná židle",
+    "nomination": "Nominace",
+    "claimSeat": "Posadit se",
+    "vacateSeat": "Opustit židli",
+    "occupiedSeat": "Židle obsazená"
   },
   "intro":{
     "header": "Vítej na NEOFICIÁLNÍM digitálním náměstí pro hru BOTC! Přidej hráče pomocí",
